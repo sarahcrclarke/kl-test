@@ -1,0 +1,813 @@
+{
+  "weekOf": "2026-08-02",
+  "capturedAt": "2026-08-04T14:49:47.831Z",
+  "isDemoData": true,
+  "sites": [
+    {
+      "slug": "katie-loxton",
+      "name": "Katie Loxton",
+      "url": "https://www.katieloxton.com",
+      "segment": "own",
+      "isOwn": true,
+      "status": "ok",
+      "title": "Katie Loxton | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Katie Loxton homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "gifting",
+        "new_in",
+        "bestsellers",
+        "social_proof",
+        "free_shipping"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/katie-loxton-hero.jpg",
+        "full": "data/screenshots/2026-08-02/katie-loxton-full.jpg"
+      }
+    },
+    {
+      "slug": "cos",
+      "name": "COS",
+      "url": "https://www.cos.com/en-gb",
+      "segment": "contemporary-fashion",
+      "isOwn": false,
+      "status": "ok",
+      "title": "COS | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "COS homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "promo",
+        "gifting",
+        "social_proof",
+        "loyalty",
+        "editorial"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/cos-hero.jpg",
+        "full": "data/screenshots/2026-08-02/cos-full.jpg"
+      }
+    },
+    {
+      "slug": "arket",
+      "name": "Arket",
+      "url": "https://www.arket.com/en_gbp",
+      "segment": "contemporary-fashion",
+      "isOwn": false,
+      "status": "ok",
+      "title": "Arket | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Arket homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "promo",
+        "new_in",
+        "bestsellers",
+        "loyalty"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/arket-hero.jpg",
+        "full": "data/screenshots/2026-08-02/arket-full.jpg"
+      }
+    },
+    {
+      "slug": "marks-and-spencer",
+      "name": "Marks & Spencer",
+      "url": "https://www.marksandspencer.com",
+      "segment": "contemporary-fashion",
+      "isOwn": false,
+      "status": "ok",
+      "title": "Marks & Spencer | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Marks & Spencer homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "promo",
+        "new_in",
+        "bestsellers",
+        "gifting",
+        "social_proof",
+        "loyalty",
+        "free_shipping"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/marks-and-spencer-hero.jpg",
+        "full": "data/screenshots/2026-08-02/marks-and-spencer-full.jpg"
+      }
+    },
+    {
+      "slug": "oliver-bonas",
+      "name": "Oliver Bonas",
+      "url": "https://www.oliverbonas.com",
+      "segment": "gifting-lifestyle",
+      "isOwn": false,
+      "status": "ok",
+      "title": "Oliver Bonas | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Oliver Bonas homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "promo",
+        "bestsellers",
+        "gifting",
+        "social_proof"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/oliver-bonas-hero.jpg",
+        "full": "data/screenshots/2026-08-02/oliver-bonas-full.jpg"
+      }
+    },
+    {
+      "slug": "kate-spade",
+      "name": "Kate Spade",
+      "url": "https://www.katespade.co.uk",
+      "segment": "bags-leather",
+      "isOwn": false,
+      "status": "ok",
+      "title": "Kate Spade | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Kate Spade homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "promo",
+        "new_in",
+        "social_proof",
+        "free_shipping",
+        "editorial"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/kate-spade-hero.jpg",
+        "full": "data/screenshots/2026-08-02/kate-spade-full.jpg"
+      }
+    },
+    {
+      "slug": "coach",
+      "name": "Coach",
+      "url": "https://www.coach.com",
+      "segment": "bags-leather",
+      "isOwn": false,
+      "status": "ok",
+      "title": "Coach | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Coach homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "gifting",
+        "personalisation",
+        "social_proof",
+        "loyalty",
+        "free_shipping"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/coach-hero.jpg",
+        "full": "data/screenshots/2026-08-02/coach-full.jpg"
+      }
+    },
+    {
+      "slug": "mint-velvet",
+      "name": "Mint Velvet",
+      "url": "https://www.mintvelvet.com",
+      "segment": "contemporary-fashion",
+      "isOwn": false,
+      "status": "ok",
+      "title": "Mint Velvet | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Mint Velvet homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "promo",
+        "sustainability",
+        "loyalty",
+        "free_shipping",
+        "editorial"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/mint-velvet-hero.jpg",
+        "full": "data/screenshots/2026-08-02/mint-velvet-full.jpg"
+      }
+    },
+    {
+      "slug": "strathberry",
+      "name": "Strathberry",
+      "url": "https://www.strathberry.com",
+      "segment": "bags-leather",
+      "isOwn": false,
+      "status": "ok",
+      "title": "Strathberry | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Strathberry homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "new_in",
+        "social_proof",
+        "loyalty"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/strathberry-hero.jpg",
+        "full": "data/screenshots/2026-08-02/strathberry-full.jpg"
+      }
+    },
+    {
+      "slug": "reiss",
+      "name": "Reiss",
+      "url": "https://www.reiss.com",
+      "segment": "contemporary-fashion",
+      "isOwn": false,
+      "status": "ok",
+      "title": "Reiss | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Reiss homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "bestsellers",
+        "social_proof",
+        "sustainability",
+        "loyalty",
+        "free_shipping"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/reiss-hero.jpg",
+        "full": "data/screenshots/2026-08-02/reiss-full.jpg"
+      }
+    },
+    {
+      "slug": "sezane",
+      "name": "Sézane",
+      "url": "https://www.sezane.com/gb",
+      "segment": "contemporary-fashion",
+      "isOwn": false,
+      "status": "ok",
+      "title": "Sézane | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Sézane homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "promo",
+        "gifting",
+        "social_proof",
+        "loyalty",
+        "editorial"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/sezane-hero.jpg",
+        "full": "data/screenshots/2026-08-02/sezane-full.jpg"
+      }
+    },
+    {
+      "slug": "jcrew",
+      "name": "J.Crew",
+      "url": "https://www.jcrew.com",
+      "segment": "contemporary-fashion",
+      "isOwn": false,
+      "status": "ok",
+      "title": "J.Crew | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "J.Crew homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "gifting",
+        "social_proof",
+        "sustainability",
+        "loyalty"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/jcrew-hero.jpg",
+        "full": "data/screenshots/2026-08-02/jcrew-full.jpg"
+      }
+    },
+    {
+      "slug": "the-white-company",
+      "name": "The White Company",
+      "url": "https://www.thewhitecompany.com",
+      "segment": "gifting-lifestyle",
+      "isOwn": false,
+      "status": "ok",
+      "title": "The White Company | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "The White Company homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "gifting",
+        "social_proof",
+        "free_shipping"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/the-white-company-hero.jpg",
+        "full": "data/screenshots/2026-08-02/the-white-company-full.jpg"
+      }
+    },
+    {
+      "slug": "polene",
+      "name": "Polène",
+      "url": "https://www.polene-paris.com/en",
+      "segment": "bags-leather",
+      "isOwn": false,
+      "status": "ok",
+      "title": "Polène | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Polène homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "promo",
+        "new_in",
+        "social_proof",
+        "editorial"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/polene-hero.jpg",
+        "full": "data/screenshots/2026-08-02/polene-full.jpg"
+      }
+    },
+    {
+      "slug": "loewe",
+      "name": "Loewe",
+      "url": "https://www.loewe.com/gbp/en",
+      "segment": "luxury-fashion",
+      "isOwn": false,
+      "status": "ok",
+      "title": "Loewe | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Loewe homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "new_in",
+        "editorial"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/loewe-hero.jpg",
+        "full": "data/screenshots/2026-08-02/loewe-full.jpg"
+      }
+    },
+    {
+      "slug": "alaia",
+      "name": "Alaïa",
+      "url": "https://www.maison-alaia.com/gb/en",
+      "segment": "luxury-fashion",
+      "isOwn": false,
+      "status": "error",
+      "error": "Timed out waiting for page load (simulated demo failure)",
+      "tags": [],
+      "navL1": []
+    },
+    {
+      "slug": "demellier",
+      "name": "Demellier",
+      "url": "https://www.demellier.com",
+      "segment": "bags-leather",
+      "isOwn": false,
+      "status": "ok",
+      "title": "Demellier | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Demellier homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "gifting",
+        "sustainability",
+        "free_shipping",
+        "editorial"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/demellier-hero.jpg",
+        "full": "data/screenshots/2026-08-02/demellier-full.jpg"
+      }
+    },
+    {
+      "slug": "dragon-diffusion",
+      "name": "Dragon Diffusion",
+      "url": "https://www.dragondiffusion.com",
+      "segment": "bags-leather",
+      "isOwn": false,
+      "status": "ok",
+      "title": "Dragon Diffusion | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Dragon Diffusion homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "promo",
+        "new_in",
+        "bestsellers",
+        "gifting",
+        "free_shipping"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/dragon-diffusion-hero.jpg",
+        "full": "data/screenshots/2026-08-02/dragon-diffusion-full.jpg"
+      }
+    },
+    {
+      "slug": "jacquemus",
+      "name": "Jacquemus",
+      "url": "https://www.jacquemus.com",
+      "segment": "luxury-fashion",
+      "isOwn": false,
+      "status": "error",
+      "error": "Timed out waiting for page load (simulated demo failure)",
+      "tags": [],
+      "navL1": []
+    },
+    {
+      "slug": "chloe",
+      "name": "Chloé",
+      "url": "https://www.chloe.com/gb",
+      "segment": "luxury-fashion",
+      "isOwn": false,
+      "status": "ok",
+      "title": "Chloé | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Chloé homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "new_in"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/chloe-hero.jpg",
+        "full": "data/screenshots/2026-08-02/chloe-full.jpg"
+      }
+    },
+    {
+      "slug": "me-and-em",
+      "name": "Me+Em",
+      "url": "https://www.meandem.com",
+      "segment": "contemporary-fashion",
+      "isOwn": false,
+      "status": "ok",
+      "title": "Me+Em | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Me+Em homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "promo",
+        "new_in",
+        "social_proof",
+        "free_shipping",
+        "editorial"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/me-and-em-hero.jpg",
+        "full": "data/screenshots/2026-08-02/me-and-em-full.jpg"
+      }
+    },
+    {
+      "slug": "papier",
+      "name": "Papier",
+      "url": "https://www.papier.com",
+      "segment": "gifting-lifestyle",
+      "isOwn": false,
+      "status": "ok",
+      "title": "Papier | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Papier homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "gifting",
+        "sustainability",
+        "free_shipping",
+        "editorial"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/papier-hero.jpg",
+        "full": "data/screenshots/2026-08-02/papier-full.jpg"
+      }
+    },
+    {
+      "slug": "mango",
+      "name": "Mango",
+      "url": "https://shop.mango.com/gb",
+      "segment": "contemporary-fashion",
+      "isOwn": false,
+      "status": "ok",
+      "title": "Mango | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Mango homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "bestsellers",
+        "free_shipping",
+        "editorial"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/mango-hero.jpg",
+        "full": "data/screenshots/2026-08-02/mango-full.jpg"
+      }
+    },
+    {
+      "slug": "zara",
+      "name": "Zara",
+      "url": "https://www.zara.com/uk",
+      "segment": "contemporary-fashion",
+      "isOwn": false,
+      "status": "ok",
+      "title": "Zara | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Zara homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "promo",
+        "sustainability",
+        "free_shipping"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/zara-hero.jpg",
+        "full": "data/screenshots/2026-08-02/zara-full.jpg"
+      }
+    },
+    {
+      "slug": "beis",
+      "name": "Beis",
+      "url": "https://beistravel.com",
+      "segment": "bags-leather",
+      "isOwn": false,
+      "status": "ok",
+      "title": "Beis | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Beis homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "bestsellers",
+        "gifting",
+        "social_proof",
+        "editorial"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/beis-hero.jpg",
+        "full": "data/screenshots/2026-08-02/beis-full.jpg"
+      }
+    },
+    {
+      "slug": "missoma",
+      "name": "Missoma",
+      "url": "https://missoma.com",
+      "segment": "jewellery-accessories",
+      "isOwn": false,
+      "status": "ok",
+      "title": "Missoma | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Missoma homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "promo",
+        "bestsellers",
+        "personalisation",
+        "social_proof",
+        "sustainability",
+        "loyalty",
+        "free_shipping"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/missoma-hero.jpg",
+        "full": "data/screenshots/2026-08-02/missoma-full.jpg"
+      }
+    },
+    {
+      "slug": "monica-vinader",
+      "name": "Monica Vinader",
+      "url": "https://www.monicavinader.com/gb",
+      "segment": "jewellery-accessories",
+      "isOwn": false,
+      "status": "ok",
+      "title": "Monica Vinader | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "Monica Vinader homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "bestsellers",
+        "gifting",
+        "personalisation",
+        "sustainability",
+        "editorial"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/monica-vinader-hero.jpg",
+        "full": "data/screenshots/2026-08-02/monica-vinader-full.jpg"
+      }
+    },
+    {
+      "slug": "other-stories",
+      "name": "& Other Stories",
+      "url": "https://www.stories.com/en_gbp",
+      "segment": "contemporary-fashion",
+      "isOwn": false,
+      "status": "ok",
+      "title": "& Other Stories | Demo Placeholder",
+      "metaDescription": "Synthetic demo data.",
+      "navL1": [
+        "New In",
+        "Shop All",
+        "Gifting",
+        "Edit",
+        "Sale",
+        "About"
+      ],
+      "heroHeading": "& Other Stories homepage mockup",
+      "textSample": "Synthetic placeholder content for dashboard development.",
+      "tags": [
+        "promo"
+      ],
+      "screenshots": {
+        "hero": "data/screenshots/2026-08-02/other-stories-hero.jpg",
+        "full": "data/screenshots/2026-08-02/other-stories-full.jpg"
+      }
+    }
+  ]
+}

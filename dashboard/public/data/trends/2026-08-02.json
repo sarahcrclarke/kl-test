@@ -1,0 +1,609 @@
+{
+  "weekOf": "2026-08-02",
+  "previousWeekOf": "2026-07-26",
+  "isBaseline": false,
+  "generatedAt": "2026-08-04T14:49:47.983Z",
+  "opportunities": [
+    {
+      "tag": "promo",
+      "label": "Sale / Promo",
+      "prevalencePct": 52,
+      "competitorCount": 13,
+      "exampleBrands": [
+        "COS",
+        "Arket",
+        "Marks & Spencer",
+        "Oliver Bonas",
+        "Kate Spade",
+        "Mint Velvet"
+      ]
+    },
+    {
+      "tag": "editorial",
+      "label": "Editorial / Storytelling",
+      "prevalencePct": 48,
+      "competitorCount": 12,
+      "exampleBrands": [
+        "COS",
+        "Kate Spade",
+        "Mint Velvet",
+        "Sézane",
+        "Polène",
+        "Loewe"
+      ]
+    },
+    {
+      "tag": "loyalty",
+      "label": "Loyalty / Rewards",
+      "prevalencePct": 40,
+      "competitorCount": 10,
+      "exampleBrands": [
+        "COS",
+        "Arket",
+        "Marks & Spencer",
+        "Coach",
+        "Mint Velvet",
+        "Strathberry"
+      ]
+    },
+    {
+      "tag": "sustainability",
+      "label": "Sustainability",
+      "prevalencePct": 32,
+      "competitorCount": 8,
+      "exampleBrands": [
+        "Mint Velvet",
+        "Reiss",
+        "J.Crew",
+        "Demellier",
+        "Papier",
+        "Zara"
+      ]
+    }
+  ],
+  "competitorChanges": [
+    {
+      "slug": "katie-loxton",
+      "name": "Katie Loxton",
+      "isOwn": true,
+      "tagsAdded": [
+        "Free Shipping / Returns"
+      ],
+      "tagsRemoved": [],
+      "heroChanged": false,
+      "previousHero": "Katie Loxton homepage mockup",
+      "currentHero": "Katie Loxton homepage mockup"
+    },
+    {
+      "slug": "cos",
+      "name": "COS",
+      "isOwn": false,
+      "tagsAdded": [
+        "Social Proof"
+      ],
+      "tagsRemoved": [
+        "New-In",
+        "Bestsellers",
+        "Free Shipping / Returns"
+      ],
+      "heroChanged": false,
+      "previousHero": "COS homepage mockup",
+      "currentHero": "COS homepage mockup"
+    },
+    {
+      "slug": "arket",
+      "name": "Arket",
+      "isOwn": false,
+      "tagsAdded": [
+        "New-In",
+        "Loyalty / Rewards"
+      ],
+      "tagsRemoved": [
+        "Sustainability",
+        "Free Shipping / Returns"
+      ],
+      "heroChanged": false,
+      "previousHero": "Arket homepage mockup",
+      "currentHero": "Arket homepage mockup"
+    },
+    {
+      "slug": "marks-and-spencer",
+      "name": "Marks & Spencer",
+      "isOwn": false,
+      "tagsAdded": [
+        "Social Proof"
+      ],
+      "tagsRemoved": [
+        "Sustainability",
+        "Editorial / Storytelling"
+      ],
+      "heroChanged": false,
+      "previousHero": "Marks & Spencer homepage mockup",
+      "currentHero": "Marks & Spencer homepage mockup"
+    },
+    {
+      "slug": "oliver-bonas",
+      "name": "Oliver Bonas",
+      "isOwn": false,
+      "tagsAdded": [
+        "Sale / Promo",
+        "Social Proof"
+      ],
+      "tagsRemoved": [
+        "New-In",
+        "Sustainability"
+      ],
+      "heroChanged": false,
+      "previousHero": "Oliver Bonas homepage mockup",
+      "currentHero": "Oliver Bonas homepage mockup"
+    },
+    {
+      "slug": "kate-spade",
+      "name": "Kate Spade",
+      "isOwn": false,
+      "tagsAdded": [
+        "Sale / Promo",
+        "Editorial / Storytelling"
+      ],
+      "tagsRemoved": [
+        "Gifting",
+        "Personalisation",
+        "Loyalty / Rewards"
+      ],
+      "heroChanged": false,
+      "previousHero": "Kate Spade homepage mockup",
+      "currentHero": "Kate Spade homepage mockup"
+    },
+    {
+      "slug": "coach",
+      "name": "Coach",
+      "isOwn": false,
+      "tagsAdded": [
+        "Social Proof",
+        "Loyalty / Rewards",
+        "Free Shipping / Returns"
+      ],
+      "tagsRemoved": [
+        "New-In",
+        "Bestsellers"
+      ],
+      "heroChanged": false,
+      "previousHero": "Coach homepage mockup",
+      "currentHero": "Coach homepage mockup"
+    },
+    {
+      "slug": "mint-velvet",
+      "name": "Mint Velvet",
+      "isOwn": false,
+      "tagsAdded": [
+        "Sale / Promo",
+        "Editorial / Storytelling"
+      ],
+      "tagsRemoved": [
+        "New-In"
+      ],
+      "heroChanged": false,
+      "previousHero": "Mint Velvet homepage mockup",
+      "currentHero": "Mint Velvet homepage mockup"
+    },
+    {
+      "slug": "strathberry",
+      "name": "Strathberry",
+      "isOwn": false,
+      "tagsAdded": [
+        "New-In",
+        "Social Proof",
+        "Loyalty / Rewards"
+      ],
+      "tagsRemoved": [
+        "Bestsellers",
+        "Personalisation",
+        "Sustainability"
+      ],
+      "heroChanged": false,
+      "previousHero": "Strathberry homepage mockup",
+      "currentHero": "Strathberry homepage mockup"
+    },
+    {
+      "slug": "reiss",
+      "name": "Reiss",
+      "isOwn": false,
+      "tagsAdded": [
+        "Bestsellers",
+        "Social Proof",
+        "Loyalty / Rewards"
+      ],
+      "tagsRemoved": [
+        "New-In",
+        "Editorial / Storytelling"
+      ],
+      "heroChanged": false,
+      "previousHero": "Reiss homepage mockup",
+      "currentHero": "Reiss homepage mockup"
+    },
+    {
+      "slug": "sezane",
+      "name": "Sézane",
+      "isOwn": false,
+      "tagsAdded": [
+        "Sale / Promo",
+        "Gifting",
+        "Social Proof",
+        "Editorial / Storytelling"
+      ],
+      "tagsRemoved": [
+        "New-In",
+        "Bestsellers",
+        "Personalisation"
+      ],
+      "heroChanged": false,
+      "previousHero": "Sézane homepage mockup",
+      "currentHero": "Sézane homepage mockup"
+    },
+    {
+      "slug": "jcrew",
+      "name": "J.Crew",
+      "isOwn": false,
+      "tagsAdded": [
+        "Gifting",
+        "Social Proof",
+        "Sustainability",
+        "Loyalty / Rewards"
+      ],
+      "tagsRemoved": [
+        "Sale / Promo",
+        "Bestsellers"
+      ],
+      "heroChanged": false,
+      "previousHero": "J.Crew homepage mockup",
+      "currentHero": "J.Crew homepage mockup"
+    },
+    {
+      "slug": "the-white-company",
+      "name": "The White Company",
+      "isOwn": false,
+      "tagsAdded": [
+        "Social Proof"
+      ],
+      "tagsRemoved": [
+        "New-In",
+        "Sustainability"
+      ],
+      "heroChanged": false,
+      "previousHero": "The White Company homepage mockup",
+      "currentHero": "The White Company homepage mockup"
+    },
+    {
+      "slug": "polene",
+      "name": "Polène",
+      "isOwn": false,
+      "tagsAdded": [
+        "Sale / Promo",
+        "Social Proof",
+        "Editorial / Storytelling"
+      ],
+      "tagsRemoved": [],
+      "heroChanged": false,
+      "previousHero": "Polène homepage mockup",
+      "currentHero": "Polène homepage mockup"
+    },
+    {
+      "slug": "loewe",
+      "name": "Loewe",
+      "isOwn": false,
+      "tagsAdded": [],
+      "tagsRemoved": [
+        "Bestsellers"
+      ],
+      "heroChanged": false,
+      "previousHero": "Loewe homepage mockup",
+      "currentHero": "Loewe homepage mockup"
+    },
+    {
+      "slug": "demellier",
+      "name": "Demellier",
+      "isOwn": false,
+      "tagsAdded": [
+        "Gifting",
+        "Free Shipping / Returns",
+        "Editorial / Storytelling"
+      ],
+      "tagsRemoved": [
+        "Personalisation",
+        "Loyalty / Rewards"
+      ],
+      "heroChanged": false,
+      "previousHero": "Demellier homepage mockup",
+      "currentHero": "Demellier homepage mockup"
+    },
+    {
+      "slug": "dragon-diffusion",
+      "name": "Dragon Diffusion",
+      "isOwn": false,
+      "tagsAdded": [
+        "Sale / Promo",
+        "New-In",
+        "Bestsellers",
+        "Free Shipping / Returns"
+      ],
+      "tagsRemoved": [
+        "Sustainability",
+        "Editorial / Storytelling"
+      ],
+      "heroChanged": false,
+      "previousHero": "Dragon Diffusion homepage mockup",
+      "currentHero": "Dragon Diffusion homepage mockup"
+    },
+    {
+      "slug": "chloe",
+      "name": "Chloé",
+      "isOwn": false,
+      "tagsAdded": [],
+      "tagsRemoved": [
+        "Editorial / Storytelling"
+      ],
+      "heroChanged": false,
+      "previousHero": "Chloé homepage mockup",
+      "currentHero": "Chloé homepage mockup"
+    },
+    {
+      "slug": "me-and-em",
+      "name": "Me+Em",
+      "isOwn": false,
+      "tagsAdded": [
+        "Sale / Promo",
+        "New-In",
+        "Social Proof",
+        "Free Shipping / Returns",
+        "Editorial / Storytelling"
+      ],
+      "tagsRemoved": [
+        "Sustainability"
+      ],
+      "heroChanged": false,
+      "previousHero": "Me+Em homepage mockup",
+      "currentHero": "Me+Em homepage mockup"
+    },
+    {
+      "slug": "papier",
+      "name": "Papier",
+      "isOwn": false,
+      "tagsAdded": [
+        "Sustainability"
+      ],
+      "tagsRemoved": [
+        "Bestsellers",
+        "Social Proof"
+      ],
+      "heroChanged": false,
+      "previousHero": "Papier homepage mockup",
+      "currentHero": "Papier homepage mockup"
+    },
+    {
+      "slug": "mango",
+      "name": "Mango",
+      "isOwn": false,
+      "tagsAdded": [
+        "Editorial / Storytelling"
+      ],
+      "tagsRemoved": [
+        "Sale / Promo",
+        "New-In",
+        "Gifting",
+        "Sustainability"
+      ],
+      "heroChanged": false,
+      "previousHero": "Mango homepage mockup",
+      "currentHero": "Mango homepage mockup"
+    },
+    {
+      "slug": "zara",
+      "name": "Zara",
+      "isOwn": false,
+      "tagsAdded": [
+        "Sustainability"
+      ],
+      "tagsRemoved": [
+        "Bestsellers"
+      ],
+      "heroChanged": false,
+      "previousHero": "Zara homepage mockup",
+      "currentHero": "Zara homepage mockup"
+    },
+    {
+      "slug": "beis",
+      "name": "Beis",
+      "isOwn": false,
+      "tagsAdded": [
+        "Bestsellers",
+        "Gifting",
+        "Social Proof"
+      ],
+      "tagsRemoved": [
+        "Personalisation",
+        "Free Shipping / Returns"
+      ],
+      "heroChanged": false,
+      "previousHero": "Beis homepage mockup",
+      "currentHero": "Beis homepage mockup"
+    },
+    {
+      "slug": "missoma",
+      "name": "Missoma",
+      "isOwn": false,
+      "tagsAdded": [
+        "Sale / Promo",
+        "Sustainability",
+        "Loyalty / Rewards",
+        "Free Shipping / Returns"
+      ],
+      "tagsRemoved": [
+        "New-In"
+      ],
+      "heroChanged": false,
+      "previousHero": "Missoma homepage mockup",
+      "currentHero": "Missoma homepage mockup"
+    },
+    {
+      "slug": "monica-vinader",
+      "name": "Monica Vinader",
+      "isOwn": false,
+      "tagsAdded": [
+        "Bestsellers"
+      ],
+      "tagsRemoved": [
+        "New-In",
+        "Free Shipping / Returns"
+      ],
+      "heroChanged": false,
+      "previousHero": "Monica Vinader homepage mockup",
+      "currentHero": "Monica Vinader homepage mockup"
+    },
+    {
+      "slug": "other-stories",
+      "name": "& Other Stories",
+      "isOwn": false,
+      "tagsAdded": [
+        "Sale / Promo"
+      ],
+      "tagsRemoved": [
+        "Bestsellers",
+        "Social Proof",
+        "Sustainability",
+        "Editorial / Storytelling"
+      ],
+      "heroChanged": false,
+      "previousHero": "& Other Stories homepage mockup",
+      "currentHero": "& Other Stories homepage mockup"
+    }
+  ],
+  "prevalenceDeltas": [
+    {
+      "tag": "social_proof",
+      "label": "Social Proof",
+      "currentPct": 56,
+      "previousPct": 15,
+      "deltaPct": 41
+    },
+    {
+      "tag": "promo",
+      "label": "Sale / Promo",
+      "currentPct": 52,
+      "previousPct": 22,
+      "deltaPct": 30
+    },
+    {
+      "tag": "new_in",
+      "label": "New-In",
+      "currentPct": 36,
+      "previousPct": 56,
+      "deltaPct": -20
+    },
+    {
+      "tag": "sustainability",
+      "label": "Sustainability",
+      "currentPct": 32,
+      "previousPct": 52,
+      "deltaPct": -20
+    },
+    {
+      "tag": "personalisation",
+      "label": "Personalisation",
+      "currentPct": 12,
+      "previousPct": 30,
+      "deltaPct": -18
+    },
+    {
+      "tag": "loyalty",
+      "label": "Loyalty / Rewards",
+      "currentPct": 40,
+      "previousPct": 22,
+      "deltaPct": 18
+    },
+    {
+      "tag": "bestsellers",
+      "label": "Bestsellers",
+      "currentPct": 36,
+      "previousPct": 52,
+      "deltaPct": -16
+    },
+    {
+      "tag": "gifting",
+      "label": "Gifting",
+      "currentPct": 48,
+      "previousPct": 37,
+      "deltaPct": 11
+    },
+    {
+      "tag": "free_shipping",
+      "label": "Free Shipping / Returns",
+      "currentPct": 52,
+      "previousPct": 44,
+      "deltaPct": 8
+    },
+    {
+      "tag": "editorial",
+      "label": "Editorial / Storytelling",
+      "currentPct": 48,
+      "previousPct": 41,
+      "deltaPct": 7
+    }
+  ],
+  "tagPrevalence": {
+    "promo": {
+      "count": 13,
+      "pct": 52
+    },
+    "new_in": {
+      "count": 9,
+      "pct": 36
+    },
+    "bestsellers": {
+      "count": 9,
+      "pct": 36
+    },
+    "gifting": {
+      "count": 12,
+      "pct": 48
+    },
+    "personalisation": {
+      "count": 3,
+      "pct": 12
+    },
+    "social_proof": {
+      "count": 14,
+      "pct": 56
+    },
+    "sustainability": {
+      "count": 8,
+      "pct": 32
+    },
+    "loyalty": {
+      "count": 10,
+      "pct": 40
+    },
+    "free_shipping": {
+      "count": 13,
+      "pct": 52
+    },
+    "editorial": {
+      "count": 12,
+      "pct": 48
+    }
+  },
+  "narrative": [
+    "Social Proof is trending up: 56% of tracked competitors now show it (was 15%).",
+    "Sale / Promo is trending up: 52% of tracked competitors now show it (was 22%).",
+    "New-In is trending down: 36% of tracked competitors now show it (was 56%).",
+    "Katie Loxton added Free Shipping / Returns to their homepage this week.",
+    "COS added Social Proof to their homepage this week.",
+    "COS dropped New-In, Bestsellers, Free Shipping / Returns from their homepage this week.",
+    "Arket added New-In, Loyalty / Rewards to their homepage this week.",
+    "Arket dropped Sustainability, Free Shipping / Returns from their homepage this week.",
+    "Marks & Spencer added Social Proof to their homepage this week.",
+    "Marks & Spencer dropped Sustainability, Editorial / Storytelling from their homepage this week.",
+    "Oliver Bonas added Sale / Promo, Social Proof to their homepage this week.",
+    "Oliver Bonas dropped New-In, Sustainability from their homepage this week.",
+    "Biggest open opportunity: 52% of competitors feature \"Sale / Promo\" on their homepage — Katie Loxton currently doesn't."
+  ]
+}

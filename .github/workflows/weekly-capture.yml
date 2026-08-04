@@ -1,0 +1,57 @@
+name: Weekly competitor homepage capture
+
+on:
+  schedule:
+    # Sunday 06:00 UTC — start of the Sun–Sat tracking week
+    - cron: "0 6 * * 0"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-capture
+  cancel-in-progress: false
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: scraper/package-lock.json
+
+      - name: Install scraper dependencies
+        working-directory: scraper
+        run: npm ci
+
+      - name: Install Playwright Chromium
+        working-directory: scraper
+        run: npx playwright install --with-deps chromium
+
+      - name: Capture homepages
+        working-directory: scraper
+        run: npm run capture
+
+      - name: Compute trends
+        working-directory: scraper
+        run: npm run diff
+
+      - name: Commit and push data
+        run: |
+          git config user.name "kl-dashboard-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add dashboard/public/data
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "chore: weekly competitor homepage capture $(date -u +%F)"
+            git push
+          fi

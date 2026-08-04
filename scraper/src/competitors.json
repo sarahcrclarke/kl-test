@@ -1,0 +1,46 @@
+{
+  "_readme": "URLs are best-guess UK-facing domains. Please verify/correct before the first live capture run — some brands (J.Crew, Beis, Coach) may not have a dedicated UK storefront and will fall back to their .com. Edit freely; slug is used as the stable id across weekly snapshots so avoid renaming it once data has been captured.",
+  "own": {
+    "slug": "katie-loxton",
+    "name": "Katie Loxton",
+    "url": "https://www.katieloxton.com",
+    "segment": "own"
+  },
+  "competitors": [
+    { "slug": "cos", "name": "COS", "url": "https://www.cos.com/en-gb", "segment": "contemporary-fashion" },
+    { "slug": "arket", "name": "Arket", "url": "https://www.arket.com/en_gbp", "segment": "contemporary-fashion" },
+    { "slug": "marks-and-spencer", "name": "Marks & Spencer", "url": "https://www.marksandspencer.com", "segment": "contemporary-fashion" },
+    { "slug": "oliver-bonas", "name": "Oliver Bonas", "url": "https://www.oliverbonas.com", "segment": "gifting-lifestyle" },
+    { "slug": "kate-spade", "name": "Kate Spade", "url": "https://www.katespade.co.uk", "segment": "bags-leather" },
+    { "slug": "coach", "name": "Coach", "url": "https://www.coach.com", "segment": "bags-leather" },
+    { "slug": "mint-velvet", "name": "Mint Velvet", "url": "https://www.mintvelvet.com", "segment": "contemporary-fashion" },
+    { "slug": "strathberry", "name": "Strathberry", "url": "https://www.strathberry.com", "segment": "bags-leather" },
+    { "slug": "reiss", "name": "Reiss", "url": "https://www.reiss.com", "segment": "contemporary-fashion" },
+    { "slug": "sezane", "name": "Sézane", "url": "https://www.sezane.com/gb", "segment": "contemporary-fashion" },
+    { "slug": "jcrew", "name": "J.Crew", "url": "https://www.jcrew.com", "segment": "contemporary-fashion" },
+    { "slug": "the-white-company", "name": "The White Company", "url": "https://www.thewhitecompany.com", "segment": "gifting-lifestyle" },
+    { "slug": "polene", "name": "Polène", "url": "https://www.polene-paris.com/en", "segment": "bags-leather" },
+    { "slug": "loewe", "name": "Loewe", "url": "https://www.loewe.com/gbp/en", "segment": "luxury-fashion" },
+    { "slug": "alaia", "name": "Alaïa", "url": "https://www.maison-alaia.com/gb/en", "segment": "luxury-fashion" },
+    { "slug": "demellier", "name": "Demellier", "url": "https://www.demellier.com", "segment": "bags-leather" },
+    { "slug": "dragon-diffusion", "name": "Dragon Diffusion", "url": "https://www.dragondiffusion.com", "segment": "bags-leather" },
+    { "slug": "jacquemus", "name": "Jacquemus", "url": "https://www.jacquemus.com", "segment": "luxury-fashion" },
+    { "slug": "chloe", "name": "Chloé", "url": "https://www.chloe.com/gb", "segment": "luxury-fashion" },
+    { "slug": "me-and-em", "name": "Me+Em", "url": "https://www.meandem.com", "segment": "contemporary-fashion" },
+    { "slug": "papier", "name": "Papier", "url": "https://www.papier.com", "segment": "gifting-lifestyle" },
+    { "slug": "mango", "name": "Mango", "url": "https://shop.mango.com/gb", "segment": "contemporary-fashion" },
+    { "slug": "zara", "name": "Zara", "url": "https://www.zara.com/uk", "segment": "contemporary-fashion" },
+    { "slug": "beis", "name": "Beis", "url": "https://beistravel.com", "segment": "bags-leather" },
+    { "slug": "missoma", "name": "Missoma", "url": "https://missoma.com", "segment": "jewellery-accessories" },
+    { "slug": "monica-vinader", "name": "Monica Vinader", "url": "https://www.monicavinader.com/gb", "segment": "jewellery-accessories" },
+    { "slug": "other-stories", "name": "& Other Stories", "url": "https://www.stories.com/en_gbp", "segment": "contemporary-fashion" }
+  ],
+  "segments": {
+    "own": "Katie Loxton",
+    "bags-leather": "Bags & Leather Goods",
+    "jewellery-accessories": "Jewellery & Accessories",
+    "gifting-lifestyle": "Gifting & Lifestyle",
+    "luxury-fashion": "Luxury Fashion House",
+    "contemporary-fashion": "High Street & Contemporary Fashion"
+  }
+}

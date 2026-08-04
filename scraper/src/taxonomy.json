@@ -1,0 +1,65 @@
+{
+  "_readme": "Homepage signal taxonomy. Each tag is detected by a keyword heuristic run against the page title, meta description, headings, and full visible body text captured from hero down to footer. Keyword matching is intentionally simple (no scraping API key needed) — treat matches as a first draft, not ground truth; the dashboard lets you override a capture's tags manually.",
+  "tags": [
+    {
+      "id": "promo",
+      "label": "Sale / Promo",
+      "description": "Sitewide discount, sale, or time-limited offer messaging",
+      "keywords": ["% off", "sale", "discount", "special offer", "save up to", "reduced", "limited time", "code:", "use code"]
+    },
+    {
+      "id": "new_in",
+      "label": "New-In",
+      "description": "New arrivals / just landed called out on the homepage",
+      "keywords": ["new in", "new arrivals", "just landed", "just arrived", "just in", "latest arrivals", "newness"]
+    },
+    {
+      "id": "bestsellers",
+      "label": "Bestsellers",
+      "description": "Bestseller / most-loved / editor's pick rail",
+      "keywords": ["bestseller", "best seller", "editor's pick", "editors pick", "most loved", "fan favourite", "fan favorite", "top rated", "customer favourite"]
+    },
+    {
+      "id": "gifting",
+      "label": "Gifting",
+      "description": "Gift-led messaging, gift guides or gift cards on the homepage",
+      "keywords": ["gift", "gifting", "the perfect present", "gift guide", "gift card", "gifts for"]
+    },
+    {
+      "id": "personalisation",
+      "label": "Personalisation",
+      "description": "Monogramming, engraving or made-to-order personalisation",
+      "keywords": ["personalise", "personalize", "personalisation", "personalization", "monogram", "engrav", "made just for you", "customise", "customize"]
+    },
+    {
+      "id": "social_proof",
+      "label": "Social Proof",
+      "description": "Reviews, ratings, press mentions or UGC surfaced on the homepage",
+      "keywords": ["review", "star rating", "as seen in", "as featured in", "trustpilot", "★", "customers say", "rated"]
+    },
+    {
+      "id": "sustainability",
+      "label": "Sustainability",
+      "description": "Sustainability, responsibly-made or values-led messaging",
+      "keywords": ["sustainab", "recycled", "eco-friendly", "responsibly made", "carbon neutral", "ethically made", "circular"]
+    },
+    {
+      "id": "loyalty",
+      "label": "Loyalty / Rewards",
+      "description": "Membership, rewards or loyalty programme CTA",
+      "keywords": ["rewards", "loyalty", "membership", "join the club", "earn points", "vip", "member benefits"]
+    },
+    {
+      "id": "free_shipping",
+      "label": "Free Shipping / Returns",
+      "description": "Free delivery, free returns or shipping threshold banner",
+      "keywords": ["free shipping", "free delivery", "free returns", "free tracked delivery"]
+    },
+    {
+      "id": "editorial",
+      "label": "Editorial / Storytelling",
+      "description": "Brand story, journal, campaign or 'meet the maker' style content",
+      "keywords": ["our story", "the journal", "meet the", "behind the", "discover our", "campaign", "the edit", "in conversation"]
+    }
+  ]
+}
